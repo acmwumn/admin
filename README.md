@@ -1,19 +1,8 @@
-# admin
-ACM-W Administration
-shannyn waz here
+# Association for Computing Machinery - Women's Chapter at the University of Minnesota, Twin Cities
 
+Check out our [website](http://acmw.umn.edu/)
 
-Does this work
-srsly
-
-
-What happens
-
-
-Literally still trying to figure out what the fuck is going on
-
-
-okay
-
-
-now two commits
+Follow us on :
+- [Facebook](https://www.facebook.com/acmwumn/?eid=ARBz0Y5i6HzZRuIdzoedqArTsw4Pr2fdAElt_OLzP3peOaWCnEZP5L5CEODGJNBv4CZlFUVJGWIv2apM)
+- [Instagram](https://www.instagram.com/acmwumn/)
+- [Linkedin](https://www.linkedin.com/company/14067680/)
